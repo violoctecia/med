@@ -197,7 +197,7 @@
     text-align: start;
   }
   .medicaltech__grid_container .block img {
-    width: 100px;
+    height: 130px;
     align-self: flex-end;
   }
   .medicaltech__grid_container .block1 {
@@ -206,4 +206,4 @@
   .medicaltech__grid_container .block1 img {
     align-self: center;
   }
-}/*# sourceMappingURL=medicaltech.css.map */
+} /*# sourceMappingURL=medicaltech.css.map */
